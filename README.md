@@ -176,7 +176,7 @@ width="48%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true&area=true&theme=github-compact"
+src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-sati-2005&hide_border=true&area=true&theme=github-compact"
 width="100%"
 />
 
