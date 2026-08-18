@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1000 24" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="grassStrip" width="24" height="24" patternUnits="userSpaceOnUse">
+      <rect width="24" height="24" fill="#6BA83B"/>
+      <rect width="12" height="12" fill="#7BC44A"/>
+      <rect x="12" y="12" width="12" height="12" fill="#7BC44A"/>
+    </pattern>
+  </defs>
+  <rect width="1000" height="24" fill="url(#grassStrip)"/>
+</svg>
