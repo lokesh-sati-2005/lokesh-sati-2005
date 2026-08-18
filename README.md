@@ -1,4 +1,10 @@
-![Lucky - Frontend Developer](./assets/hero.png)
+<div align="center">
+
+<img src="./assets/hero.png" alt="Lucky - Frontend Developer" width="100%">
+
+</div>
+
+<br>
 
 # LUCKY
 
