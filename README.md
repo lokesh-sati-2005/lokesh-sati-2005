@@ -4,7 +4,7 @@
 
 ### FRONTEND DEVELOPER · CREATIVE CODER
 
-**I build interfaces that feel alive.**
+`building things that feel alive`
 
 <br>
 
@@ -18,161 +18,136 @@
 
 <div align="center">
 
-```text
+```text id="m0g6y8"
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  lucky@github ~ $ whoami                                     │
 │                                                              │
+│  Lucky                                                       │
 │  Frontend Developer                                          │
-│  Creative Developer                                          │
 │                                                              │
-│  I enjoy building interactive interfaces,                    │
-│  experimenting with motion and turning ideas                  │
-│  into visual experiences.                                    │
+│  lucky@github ~ $ status                                    │
 │                                                              │
-│  lucky@github ~ $ currently_building                         │
-│  ████████████████████░░░░░░ 80%                              │
+│  Learning. Building. Experimenting.                         │
+│                                                              │
+│  lucky@github ~ $ focus                                     │
+│                                                              │
+│  Interactive UI · Animation · Creative Development            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
+---
+
 ## `$ about`
 
-I'm a frontend developer focused on creating modern, interactive
-and visually engaging web experiences.
+I'm a frontend developer who enjoys turning ideas into
+interactive and visually engaging web experiences.
 
-I enjoy working with:
+I like experimenting with:
 
-`React` `JavaScript` `GSAP` `Tailwind CSS`
+`UI` `Animation` `Interaction` `Creative Coding`
 
-Currently exploring creative development, advanced animation,
-interactive UI and visual storytelling.
+Currently focused on getting better at building interfaces
+that don't just work — they feel good to use.
 
 ---
 
-## `$ tech_stack`
+## `$ currently_learning`
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
+```text id="s7k9c4"
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
 │  FRONTEND                                                   │
-│                                                             │
-│  HTML             ████████████████████                      │
-│  CSS              ███████████████████░                      │
-│  JavaScript       ██████████████████░░                      │
-│  React            █████████████████░░░                      │
-│                                                             │
-│  STYLING                                                    │
-│                                                             │
-│  Tailwind CSS     █████████████████░░░                      │
-│  CSS Animation    ████████████████░░░░                      │
-│                                                             │
-│  MOTION                                                      │
-│                                                             │
-│  GSAP             █████████████████░░░                      │
-│  Framer Motion    ███████████████░░░░░                      │
-│                                                             │
-│  TOOLS                                                       │
-│                                                             │
-│  Git              ██████████████████░░                      │
-│  GitHub           ██████████████████░░                      │
-│  Figma            ████████████████░░░░                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+│                                                            │
+│  React              █████████████████░░░                    │
+│  JavaScript         ██████████████████░░                    │
+│  HTML / CSS         ████████████████████                    │
+│                                                            │
+│  MOTION                                                     │
+│                                                            │
+│  GSAP               █████████████████░░░                    │
+│  Framer Motion      ███████████████░░░░░                    │
+│                                                            │
+│  DESIGN                                                     │
+│                                                            │
+│  UI / UX            ████████████████░░░░                    │
+│  Figma              ███████████████░░░░░                    │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ selected_projects`
+## `$ experiments`
 
-<div align="center">
+I don't have a huge collection of projects yet.
 
-### `01` — YUME
+So instead of pretending I do, I'm using this space to document
+the things I'm experimenting with.
 
-</div>
-
-**Interactive web experience**
-
-A creative frontend project focused on visual storytelling,
-smooth transitions and interactive experiences.
-
-**Built with**
-
-`React` `JavaScript` `GSAP` `Tailwind CSS`
-
-<a href="YOUR_YUME_REPO_URL">VIEW PROJECT →</a>
-
----
-
-<div align="center">
-
-### `02` — REAL EYE
-
-</div>
-
-**Creative interface experiment**
-
-An experimental interface exploring identity, perception
-and motion through web interactions.
-
-**Built with**
-
-`HTML` `CSS` `JavaScript` `GSAP`
-
-<a href="YOUR_REAL_EYE_REPO_URL">VIEW PROJECT →</a>
+```text id="7sj2kx"
+01  GSAP animations
+02  Scroll-based interactions
+03  Micro interactions
+04  Creative CSS
+05  React components
+06  UI experiments
+07  Interactive layouts
+08  Motion design
+```
 
 ---
 
+## `$ toolkit`
+
 <div align="center">
 
-### `03` — PORTFOLIO
+![HTML5](https://img.shields.io/badge/HTML5-050505?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-050505?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge\&logo=javascript\&logoColor=white)
+![React](https://img.shields.io/badge/React-050505?style=for-the-badge\&logo=react\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-050505?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-050505?style=for-the-badge\&logo=greensock\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge\&logo=git\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-050505?style=for-the-badge\&logo=figma\&logoColor=white)
 
 </div>
 
-**Personal frontend playground**
-
-My personal portfolio where I experiment with animation,
-interaction and creative frontend development.
-
-**Built with**
-
-`React` `GSAP` `Framer Motion` `Tailwind CSS`
-
-<a href="YOUR_PORTFOLIO_REPO_URL">VIEW PROJECT →</a>
-
 ---
 
-## `$ currently_building`
+## `$ current_mission`
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  PROJECT        PERSONAL PORTFOLIO           │
-│                                              │
-│  STATUS         IN PROGRESS                  │
-│                                              │
-│  PROGRESS       ████████████████░░░░ 80%     │
-│                                              │
-│  FOCUS                                        │
-│                                              │
-│  → Creative UI                               │
-│  → GSAP animations                           │
-│  → Micro interactions                        │
-│  → Interactive storytelling                  │
-│  → Advanced CSS                              │
-│                                              │
-└──────────────────────────────────────────────┘
+```text id="j8m5h3"
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  MISSION                                                   │
+│                                                            │
+│  Become better at building interfaces that move.           │
+│                                                            │
+│  ──────────────────────────────────────────────────────    │
+│                                                            │
+│  [████████████████░░░░]  IN PROGRESS                       │
+│                                                            │
+│  NEXT                                                      │
+│                                                            │
+│  → Build more experiments                                  │
+│  → Learn advanced animation                                │
+│  → Ship real projects                                      │
+│  → Keep improving                                          │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## `$ github_stats`
+## `$ github_activity`
 
 <div align="center">
 
@@ -190,7 +165,7 @@ width="48%"
 
 ---
 
-## `$ activity`
+## `$ contribution_graph`
 
 <div align="center">
 
@@ -213,7 +188,7 @@ width="100%"
 
 <br><br>
 
-```text
+```text id="4r4j1a"
 BUILD · BREAK · LEARN · REPEAT
 ```
 
