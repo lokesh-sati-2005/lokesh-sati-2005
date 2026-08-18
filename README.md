@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./assets/hero.png" width="100%">
+
+</div>
+
+<br>
+
 # LUCKY
 
 ### FRONTEND DEVELOPER · CREATIVE CODER
