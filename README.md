@@ -1,22 +1,16 @@
 <div align="center">
 
-<img src="./assets/hero.png" alt="Lucky - Frontend Developer" width="100%">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=200&section=header&text=LUCKY&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20·%20Backend%20+%20Frontend&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-# LUCKY
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=turning+ideas+into+working+products;building+RealEye+%E2%80%94+deepfake+detection;open+to+work+as+a+software+developer" alt="Typing SVG" />
 
-### FRONTEND DEVELOPER · CREATIVE CODER
+<br><br>
 
-`building things that feel alive`
-
-<br>
-
-<a href="YOUR_PORTFOLIO_URL">PORTFOLIO</a>
-  ·   <a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
-  ·   <a href="mailto:YOUR_EMAIL">EMAIL</a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/lokesh-sati-2005"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:lokeshsati1006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -24,22 +18,23 @@
 
 <div align="center">
 
-```text id="m0g6y8"
+```text
 ┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  lucky@github ~ $ whoami                                     │
-│                                                              │
-│  Lucky                                                       │
-│  Frontend Developer                                          │
-│                                                              │
-│  lucky@github ~ $ status                                    │
-│                                                              │
-│  Learning. Building. Experimenting.                         │
-│                                                              │
-│  lucky@github ~ $ focus                                     │
-│                                                              │
-│  Interactive UI · Animation · Creative Development            │
-│                                                              │
+│                                                                │
+│  lucky@dev ~ $ whoami                                         │
+│                                                                │
+│  Lokesh Sati (Lucky)                                          │
+│  Software Developer                                           │
+│                                                                │
+│  lucky@dev ~ $ education                                      │
+│                                                                │
+│  BCA — Amrapali Institute of Technology (Kumaun University)   │
+│  Class of 2026                                                │
+│                                                                │
+│  lucky@dev ~ $ status                                         │
+│                                                                │
+│  Open to work. Building. Shipping.                            │
+│                                                                │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -49,60 +44,53 @@
 
 ## `$ about`
 
-I'm a frontend developer who enjoys turning ideas into
-interactive and visually engaging web experiences.
+I'm a software developer who builds full products — from backend
+APIs to frontend interfaces that actually feel good to use.
 
-I like experimenting with:
+I work across the stack:
 
-`UI` `Animation` `Interaction` `Creative Coding`
+`Backend APIs` `Web Apps` `UI/UX` `Automation`
 
-Currently focused on getting better at building interfaces
-that don't just work — they feel good to use.
+Currently building **RealEye** — a deepfake & fake-news detection
+project — and my personal portfolio with GSAP-powered interactions.
 
 ---
 
-## `$ currently_learning`
+## `$ skills`
 
-```text id="s7k9c4"
+```text
 ┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  FRONTEND                                                   │
-│                                                            │
-│  React              █████████████████░░░                    │
-│  JavaScript         ██████████████████░░                    │
-│  HTML / CSS         ████████████████████                    │
-│                                                            │
-│  MOTION                                                     │
-│                                                            │
-│  GSAP               █████████████████░░░                    │
-│  Framer Motion      ███████████████░░░░░                    │
-│                                                            │
-│  DESIGN                                                     │
-│                                                            │
-│  UI / UX            ████████████████░░░░                    │
-│  Figma              ███████████████░░░░░                    │
-│                                                            │
+│                                                              │
+│  BACKEND                                                     │
+│                                                              │
+│  Python              ████████████████████                   │
+│  Flask               ██████████████████░░                   │
+│  FastAPI             █████████████████░░░                    │
+│  PostgreSQL          █████████████████░░░                    │
+│  REST APIs           ██████████████████░░                    │
+│                                                              │
+│  FRONTEND                                                     │
+│                                                              │
+│  React.js            █████████████████░░░                    │
+│  JavaScript          ██████████████████░░                    │
+│  Tailwind CSS        ██████████████████░░                    │
+│                                                              │
+│  TOOLS                                                        │
+│                                                              │
+│  Git                 ██████████████████░░                    │
+│                                                              │
 └────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ experiments`
+## `$ projects`
 
-I don't have a huge collection of projects yet.
-
-So instead of pretending I do, I'm using this space to document
-the things I'm experimenting with.
-
-```text id="7sj2kx"
-01  GSAP animations
-02  Scroll-based interactions
-03  Micro interactions
-04  Creative CSS
-05  React components
-06  UI experiments
-07  Interactive layouts
-08  Motion design
+```text
+01  RealEye — Deepfake & fake-news detection system
+02  Personal Portfolio — GSAP animations, custom UI
+03  Backend APIs — Flask / FastAPI + PostgreSQL
+04  React web apps with Tailwind CSS
 ```
 
 ---
@@ -111,14 +99,18 @@ the things I'm experimenting with.
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-050505?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-050505?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-050505?style=for-the-badge\&logo=javascript\&logoColor=white)
-![React](https://img.shields.io/badge/React-050505?style=for-the-badge\&logo=react\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-050505?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-050505?style=for-the-badge\&logo=greensock\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-050505?style=for-the-badge\&logo=git\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-050505?style=for-the-badge\&logo=figma\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,react,js,tailwind,postgres,git&theme=dark" />
+
+</div>
+
+---
+
+## `$ stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lokesh-sati-2005&show_icons=true&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=00FF9C&icon_color=00FF9C&text_color=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=lokesh-sati-2005&theme=dark&hide_border=true&background=0d0d0d&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" height="165"/>
 
 </div>
 
@@ -128,24 +120,25 @@ the things I'm experimenting with.
 
 <div align="center">
 
-```text id="j8m5h3"
+```text
 ┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│  MISSION                                                   │
-│                                                            │
-│  Become better at building interfaces that move.           │
-│                                                            │
-│  ──────────────────────────────────────────────────────    │
-│                                                            │
-│  [████████████████░░░░]  IN PROGRESS                       │
-│                                                            │
-│  NEXT                                                      │
-│                                                            │
-│  → Build more experiments                                  │
-│  → Learn advanced animation                                │
-│  → Ship real projects                                      │
-│  → Keep improving                                          │
-│                                                            │
+│                                                              │
+│  MISSION                                                     │
+│                                                              │
+│  Land a software developer role and keep shipping            │
+│  real, production-quality projects.                          │
+│                                                              │
+│  ──────────────────────────────────────────────────────      │
+│                                                              │
+│  [██████████████████░░]  IN PROGRESS                         │
+│                                                              │
+│  NEXT                                                        │
+│                                                              │
+│  → Finish portfolio site                                     │
+│  → Ship RealEye v1                                           │
+│  → Apply & interview                                         │
+│  → Keep building                                              │
+│                                                              │
 └────────────────────────────────────────────────────────────┘
 ```
 
@@ -153,19 +146,11 @@ the things I'm experimenting with.
 
 ---
 
-## `$ github_activity`
+## `$ top_languages`
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent"
-width="48%"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent"
-width="48%"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh-sati-2005&layout=compact&hide_border=true&theme=dark&bg_color=0d0d0d&title_color=00FF9C&text_color=c9d1d9" height="180"/>
 
 </div>
 
@@ -176,9 +161,19 @@ width="48%"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-sati-2005&hide_border=true&area=true&theme=github-compact"
+src="https://github-readme-activity-graph.vercel.app/graph?username=lokesh-sati-2005&hide_border=true&area=true&bg_color=0d0d0d&color=00FF9C&line=00FF9C&point=ffffff"
 width="100%"
 />
+
+</div>
+
+---
+
+## `$ trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lokesh-sati-2005&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6"/>
 
 </div>
 
@@ -188,18 +183,22 @@ width="100%"
 
 <div align="center">
 
-<a href="YOUR_PORTFOLIO_URL">PORTFOLIO</a>
-  ·   <a href="YOUR_LINKEDIN_URL">LINKEDIN</a>
-  ·   <a href="mailto:YOUR_EMAIL">EMAIL</a>
+<a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://github.com/lokesh-sati-2005"><img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:lokeshsati1006@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
-```text id="4r4j1a"
+```text
 BUILD · BREAK · LEARN · REPEAT
 ```
+
+<img src="https://komarev.com/ghpvc/?username=lokesh-sati-2005&label=Profile+Views&color=00FF9C&style=flat" />
 
 <br>
 
 `© 2026 Lucky`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a1a&height=100&section=footer" width="100%"/>
